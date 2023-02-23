@@ -1,0 +1,280 @@
+#a{
+    animation:hotel 10s infinite ;
+}
+@keyframes hotel{
+
+    50%{background-image: url(https://luxecityguides.com/wp-content/uploads/2021/05/sri_lanka_kingsbury.original.jpg);background-repeat:no-repeat; background-size: cover;}
+    90%{background-image: url(https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?cs=srgb&dl=pexels-chan-walrus-941861.jpg&fm=jpg);background-repeat:no-repeat; background-size: cover;}
+     }
+
+#b{
+
+    background-color: burlywood;
+
+}
+#info{
+    display: flex;
+}
+#form
+{
+    margin-top: 110px;
+    display: flex;
+    margin-left: 25px;
+}
+.hotelpic
+{
+    margin-top: 80px;
+    margin-right: 25px;
+    border: 2px ;
+    height: 450px;
+    width: 650px;
+}
+.hotelpic:hover{
+    height: 450px;
+    width: 650px;
+    filter: grayscale(1.5);
+}
+#hotelpic{
+    height: 400px;
+    width: 600px;
+}
+#hotelpic:hover{
+    height: 450px;
+    width: 650px;
+}
+
+
+.h1{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(252, 8, 8, 0.432);
+    margin-right: 30px;
+    font-size: 20px;
+}
+.h1:hover{
+    background-color: rgba(185, 34, 34, 0.76);
+    height: 325px;
+    width: 425px;
+}
+.h2{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(252, 8, 8, 0.432);
+    margin-right: 30px;
+    font-size: 20px;
+}
+.h2:hover{
+    background-color: rgba(185, 34, 34, 0.76);
+    height: 325px;
+    width: 425px;
+}
+.h3{
+    height: 300px;
+    width: 400px;
+    font-size: 20px;
+    background-color:  rgba(252, 8, 8, 0.432);
+  
+}
+.h3:hover{
+    background-color: rgba(185, 34, 34, 0.76);
+    height: 325px;
+    width: 425px;
+}
+#c{
+    background-color: rgb(139, 80, 92);
+    
+}
+#d{
+    background-color: chocolate;
+}
+#events
+{
+    background-color: crimson;
+}
+#gallery
+{
+    background-color:rgba(0, 0, 0, 0.89)
+}
+.gold{
+    color: rgba(211, 188, 57, 0.822);
+}
+#reserv
+{
+    background-color: darksalmon;
+}
+a{
+    margin-right: 50px;
+    text-decoration: dotted;
+    color: rgb(0, 0, 0);
+}
+ul{
+    display: flex;
+    list-style-type: none; 
+    background-color: rgba(241, 240, 129, 0.329);
+    background-size: 25px;
+    
+}
+.taskbar{
+    display: flex;
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 58px;
+    font-size: 20px;
+    color: rgb(247, 233, 114);
+}
+
+.e{
+    font-size: 40px;
+    color:rgb(7, 6, 4);
+}
+e{
+    margin-right: 25px;
+
+}
+.start{
+    font-size: 50px;
+    color: rgb(255, 254, 254);
+    margin-left: 150px;
+    margin-top: 170px;
+}
+h1{
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+h2{
+    font-size: 25px;
+    margin-left: 150px;
+    color: white;
+}
+h3{
+    font-size: 35px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+h4{
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+#y{
+    display: flex;
+}
+.menu{
+    background-color: rgba(237, 233, 240, 0.034);
+    border-radius: 25px;
+    font-size: larger;
+    height: 45px;
+    width: 150px;
+    border-color:rgb(255, 255, 255);
+    border-style: solid;
+    margin-right: 10px;
+    margin-left: 150px;
+    cursor: pointer;
+    color: white;
+}
+.menu:hover{
+    background-color: rgb(194, 92, 92);
+}
+.bat{
+    background-color: rgba(237, 233, 240, 0.034);
+    border-radius: 25px;
+    font-size: larger;
+    height: 45px;
+    width: 200px;
+    border-color:rgb(255, 255, 255);
+    border-style: solid;
+    color: white;
+    cursor: pointer;
+}
+.bat:hover{
+    background-color: rgb(194, 92, 92);
+}
+.text{
+    margin-right: 55px;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    font-size: 20px;
+    margin-top: 22px;
+}
+.row1{
+    font-size: 18px;
+    margin-top: 25px;
+}
+.hotelmenu{
+    margin-top: 10px;
+}
+.rat{
+    margin-right: 20px;
+    margin-left: 13.6px;
+    height: 55px;
+    width: 400px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-color: rgba(255, 255, 255, 0.89);
+    border-style: solid;
+    color: black;
+}
+.rat1{
+    margin-right: 20px;
+    margin-left: 13.6px;
+    height: 55px;
+    width: 400px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-color: rgba(255, 255, 255, 0.89);
+    border-style: solid;
+    color: black; 
+}
+.rat2
+{
+    margin-right: 20px;
+    margin-left: 13.6px;
+    height: 150px;
+    width: 1290px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-color: rgba(255, 255, 255, 0.89);
+    border-style: solid;
+    color: black;
+}
+.customers{
+margin-left: 0px;
+margin-right: 0px;
+}
+.customers:hover
+{
+height: 235px;
+width: 340px;
+}
+.ig1{
+height: 230px;
+width: 325px;
+}
+.ig1:hover{
+filter: opacity(0.6);
+}
+.ig2{
+height: 230px;
+width: 325px;
+}
+.ig2:hover{
+filter: opacity(0.6);
+}
+.ig3{
+height: 230px;
+width: 325px;
+box-shadow: 5px 5px 3px white;
+}
+.ig3:hover{
+filter: opacity(0.6);
+}
